@@ -14,6 +14,6 @@ Usage:
 gcc -Wall -std=c99 -o automata automata.c
 ./automata (number of generations) (input file in txt)
 ```
-Input: a txt file with 5*5 matrix.
+Input: a txt file with 5*5 matrix
 Output: a txt file of the final state of the 5*5 matrix
 
